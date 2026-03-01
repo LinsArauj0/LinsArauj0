@@ -10,7 +10,7 @@ Atualmente praticando construção de **APIs REST**, integração com **MySQL** 
 [![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0077B5?style=for-the-badge&color=0077B5&logoColor=white)](https://web.dio.me/users/erick_lima64?tab=achievements)  
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick.lima6/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-lima-5837132a2/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-git-main-erick-s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://backend-erick.vercel.app/)
 
 ---
 
