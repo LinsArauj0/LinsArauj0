@@ -26,10 +26,10 @@ Atualmente praticando construção de **APIs REST**, integração com **MySQL** 
 
 # 🚀 Backend Projects
 💰 **API Finance** — gerenciamento de categorias e transações com Node.js + TypeScript + MySQL  
-🔗 https://github.com/LinsAraujo0/SEU-REPO-FINANCE  
+🔗 https://github.com/LinsArauj0/api-finance-node-ts  
 
 ✅ **API To-Do List** — CRUD de tarefas com arquitetura em camadas  
-🔗 https://github.com/LinsAraujo0/SEU-REPO-TODO  
+🔗 https://github.com/LinsArauj0/api-tasks  
 
 ---
 
